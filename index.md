@@ -41,6 +41,6 @@ psd_data = psds.get_data() # (Trials, Channels, Freqs)
 - [GitHub](https://github.com/RaideNaeNae)
 - [LinkedIn](https://www.linkedin.com/in/raiden-louie/)
 ### Other interests
-1. My dog, ![Kaya](images/kaya.jpg)
+1. My dog, Kaya: ![Kaya](images/kaya.jpg)
 3. TV
 4. Music
