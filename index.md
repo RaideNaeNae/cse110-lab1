@@ -1,4 +1,4 @@
-![Raiden's Profile Picture](images/headshot.jpeg)
+![Raiden's Profile Picture](images/headshot.jpg)
 
 # Raiden Louie
 ## Table of contents
@@ -37,10 +37,10 @@ psd_data = psds.get_data() # (Trials, Channels, Freqs)
 </pre>
 
 ### Connect with me
-- [Email Me](malito:raidenlouie@gmail.com)
+- [Email Me](mailto:raidenlouie@gmail.com)
 - [GitHub](https://github.com/RaideNaeNae)
 - [LinkedIn](https://www.linkedin.com/in/raiden-louie/)
 ### Other interests
-1. My dog, ![Kaya](images/kaya.jpeg)
+1. My dog, ![Kaya](images/kaya.jpg)
 3. TV
 4. Music
